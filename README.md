@@ -49,7 +49,7 @@ L’équipe Commerciale a également joué un rôle clé dans le choix de l’é
 
 ## Installation
 
-1. Cloner le dépôt :
+Cloner le dépôt :
 
    ```bash
    git clone https://github.com/Solene0971/team-management.git
