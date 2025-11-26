@@ -1,6 +1,6 @@
 # Projet SAÉ S206 - Organisation et Gestion d'Équipe
 Ce projet a été réalisé dans le cadre de la SAÉ S206 du BUT Informatique (IUT Villetaneuse, Université Sorbonne Paris Nord).
-En tant que cheffe de projet, l’objectif était de collaborer au sein d’une équipe informatique en identifiant les aptitudes des collaborateurs pour mener à bien un projet autour de la culture : concevoir une évènement fictive en développant un site web et une affiche promotionnelle.
+En tant que cheffe de projet, l’objectif était de collaborer au sein d’une équipe informatique en identifiant les aptitudes des collaborateurs pour mener à bien un projet autour de la culture : concevoir un évènement fictif en développant un site web et une affiche promotionnelle.
 
 Nous étions sept dans l’équipe et avons imaginé un évènement original autour du Musée de l’Illusion à Paris, que nous avons ensuite promue de manière fictive.
 
