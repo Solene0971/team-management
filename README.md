@@ -7,7 +7,7 @@ Nous étions sept dans l’équipe et avons imaginé un évènement original aut
 
 ## Livrables
 
-- [Site web](https://sites.google.com/view/lartdelillusioncom/ev%C3%A9nement-2025) présentant l'évènement initial de 2025, fictif en 2026 et les membres de l'équipe
+- Site web (lien indisponible) présentant l'évènement initial de 2025, fictif en 2026 et les membres de l'équipe
 - [Affiche promotionnelle](https://www.canva.com/design/DAGq_2DoRHY/nPcnL-ovTYFw0_dETwY86w/view?utm_content=DAGq_2DoRHY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb10cb76af1) (réalisée sur Canva et Photoshop)
 - [Feuille de route](https://docs.google.com/spreadsheets/d/1fUgs3qmYT2sY5kPIxB59fxMXRvpW7I-5Rny-NXZbB0Q/edit?usp=sharing) retraçant les tâches principales et les deadlines à respecter
 - [Journal de bord](https://docs.google.com/spreadsheets/d/1prjRxV0odOUpLRArmCEWxTsZsykl20CV2J-b92nD92M/edit?usp=sharing) permettant de suivre le travail réalisé au fil du temps
